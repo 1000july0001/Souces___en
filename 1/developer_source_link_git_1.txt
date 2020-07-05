@@ -1,4 +1,4 @@
-https://github.com/1000july0001/developer/blob/master/developer1.txt
+https://github.com/1000july0001/developer__en/blob/master/developer1.txt
 
 
 
@@ -8,7 +8,7 @@ https://github.com/1000july0001/developer/blob/master/developer1.txt
 
 
 
-https://github.com/1000july0001/offline_text/blob/master/developer_offline_text_git_1.txt
+https://github.com/1000july0001/offline_text__en/blob/master/developer_offline_text_git_1.txt
 
 
 
