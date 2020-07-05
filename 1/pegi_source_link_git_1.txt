@@ -1,4 +1,4 @@
-https://github.com/1000july0001/pegi/blob/master/pegi_1.txt
+https://github.com/1000july0001/pegi__en/blob/master/pegi_1.txt
 
 
 
@@ -8,7 +8,7 @@ https://github.com/1000july0001/pegi/blob/master/pegi_1.txt
 
 
 
-https://github.com/1000july0001/offline_text/blob/master/pegi_offline_text_git_1.txt
+https://github.com/1000july0001/offline_text__en/blob/master/pegi_offline_text_git_1.txt
 
 
 
